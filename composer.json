@@ -1,0 +1,13 @@
+{
+    "name": "alexanderbedenko/mysql2elastic",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ghooost",
+            "email": "ghooost@gmail.com"
+        }
+    ],
+    "require": {
+      "elasticsearch/elasticsearch": "~6.0"
+    }
+}
